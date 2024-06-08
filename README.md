@@ -28,7 +28,9 @@ Software Developer
 [![Leetcode Stats](https://leetcard.jacoblin.cool/gowthamm0708?ext=contest&theme=dark)](https://leetcode.com/gowthamm0708)
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthamm0708&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sebe2k04&label=Profile%20Views&color=2&icon=6&pretty=true" />
+</a>
 
 <!--
 **gowthamm0708/gowthamm0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
