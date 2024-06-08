@@ -1,7 +1,9 @@
 ## Hi there 👋 It's me Gowtham
 
 Software Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<div align="center">
+  <img  align="right" width="370" height="290" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/MERN-Stack.gif"  />
+</div>
 - 🔭 Here's my [portfolio](https://gowthamdev.netlify.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
