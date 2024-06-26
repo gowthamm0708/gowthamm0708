@@ -1,6 +1,15 @@
 ## Hi there 👋 It's me Gowtham
 
 Software Developer✨
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
